@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/dmgwizard/dmgwizard-1.0.zip
 
 # Official Website
 

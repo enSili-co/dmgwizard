@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "DMG Wizard",
-  "description": "Generate & style your app images easily",
+  "description": "Generate & style your app disk images easily",
   "start_url": "/",
   "display": "standalone"
 }
