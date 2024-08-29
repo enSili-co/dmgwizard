@@ -1,5 +1,5 @@
 {
-  "name": "DMG Wizard: QR Code generator for macOS",
+  "name": "DMG Wizard: DMG app packager for macOS",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "DMG Wizard",
-  "description": "Generate & style beautiful QRCode images directly from your Mac",
+  "description": "Generate & style your app images easily",
   "start_url": "/",
   "display": "standalone"
 }

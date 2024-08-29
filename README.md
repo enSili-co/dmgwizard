@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>DMG Wizard for Mac</h1>
 <p align=center>
-  QR Code styling + generation<br/>made ultra-fun and easy
+  The no-hassle, no-frills way<br/>to beautiful & functional app packages
 </p>
 
 
