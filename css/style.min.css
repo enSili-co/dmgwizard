@@ -36,7 +36,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #7F42E5;
+  color: #5b37ca;
 }
 
 h1 {
@@ -49,13 +49,13 @@ h1 {
 h2 {
   font-size: 45px;
   font-weight: 300;
-  color: #5241F0;
+  color: #3b72f0;
   letter-spacing: -1px;
   margin-bottom: 1rem;
 }
 
 h3 {
-  color: #5241F0;
+  color: #3b72f0;
   font-size: 33px;
   font-weight: 500;
 }
@@ -63,13 +63,13 @@ h3 {
 h4 {
   font-size: 20px;
   font-weight: 500;
-  color: #5241F0;
+  color: #3b72f0;
 }
 
 h5 {
   font-size: 28px;
   font-weight: 300;
-  color: #5241F0;
+  color: #3b72f0;
   margin-bottom: 0.7rem;
 }
 
@@ -99,12 +99,12 @@ p.lead {
 }
 
 .btn-outline-light:hover {
-  color: #5241F0;
+  color: #3b72f0;
 }
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #7F42E5;
+  background-color: #5b37ca;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -117,7 +117,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #702ce2;
+  background-color: #5130b7;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF;
 }
@@ -128,7 +128,7 @@ p.lead {
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
   font-size: 14px;
   font-weight: 500;
-  color: #5241F0;
+  color: #3b72f0;
   margin: 0.5rem;
   padding: 0.7rem 1.6rem;
   line-height: 1.8;
@@ -174,7 +174,7 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-  background-color: rgba(127, 66, 229, 0.94);
+  background-color: rgba(91, 55, 202, 0.94);
 }
 
 .nav-menu.is-scrolling {
@@ -218,10 +218,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #67CA5D 0%, #EFED67 100%);
-  background-image: -webkit-linear-gradient(135deg, #67CA5D 0%, #EFED67 100%);
-  background-image: -ms-linear-gradient(135deg, #67CA5D 0%, #EFED67 100%);
-  background-image: linear-gradient(135deg, #67CA5D 0%, #EFED67 100%);
+  background-image: -moz-linear-gradient(135deg, #5b37ca 0%, #3b72f0 100%);
+  background-image: -webkit-linear-gradient(135deg, #5b37ca 0%, #3b72f0 100%);
+  background-image: -ms-linear-gradient(135deg, #5b37ca 0%, #3b72f0 100%);
+  background-image: linear-gradient(135deg, #5b37ca 0%, #3b72f0 100%);
 }
 
 .tagline {
@@ -254,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #7F42E5;
-  background: -moz-linear-gradient(top, #5241F0 0%, #7F42E5 100%);
-  background: -webkit-linear-gradient(top, #5241F0 0%, #7F42E5 100%);
-  background: linear-gradient(to bottom, #5241F0 0%, #7F42E5 100%);
+  color: #5b37ca;
+  background: -moz-linear-gradient(top, #3b72f0 0%, #5b37ca 100%);
+  background: -webkit-linear-gradient(top, #3b72f0 0%, #5b37ca 100%);
+  background: linear-gradient(to bottom, #3b72f0 0%, #5b37ca 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #7F42E5;
-  background: -moz-linear-gradient(top, #5241F0 0%, #7F42E5 100%);
-  background: -webkit-linear-gradient(top, #5241F0 0%, #7F42E5 100%);
-  background: linear-gradient(to bottom, #5241F0 0%, #7F42E5 100%);
+  color: #5b37ca;
+  background: -moz-linear-gradient(top, #3b72f0 0%, #5b37ca 100%);
+  background: -webkit-linear-gradient(top, #3b72f0 0%, #5b37ca 100%);
+  background: linear-gradient(to bottom, #3b72f0 0%, #5b37ca 100%);
   top: 0;
   bottom: 0;
   left: 0;
@@ -319,7 +319,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #7F42E5;
+  color: #5b37ca;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -336,7 +336,7 @@ header {
   }
 }
 .ui-steps li:hover .circle-icon {
-  background: #7F42E5;
+  background: #5b37ca;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF;
 }
@@ -400,7 +400,7 @@ header {
   background: #FFF;
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
-  color: #5241F0;
+  color: #3b72f0;
 }
 
 /*  TESTIMONIALS
@@ -495,7 +495,7 @@ header {
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
   box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-  color: #5241F0;
+  color: #3b72f0;
 }
 
 .card.pricing .card-head {
@@ -507,7 +507,7 @@ header {
   display: block;
   font-size: 45px;
   font-weight: 300;
-  color: #5241F0;
+  color: #3b72f0;
 }
 
 .card.pricing .card-head .price sub {
@@ -598,7 +598,7 @@ header {
 h4.howtolist {
   font-size: 28px;
   font-weight: 400;
-  color: #2813eb;
+  color: #1252e6;
   margin-bottom: 0.7rem;
 }
 
